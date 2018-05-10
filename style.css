@@ -1,0 +1,85 @@
+body {
+  font-family: 'Lora', serif;
+  background-color: white;
+}
+
+h1{
+  font-family: 'Inconsolata', monospace;
+  font-size: 40px;
+  padding-top: 20px;
+  color: white;
+  text-align: center;
+}
+
+h3{
+	font-family: 'Inconsolata', monospace;
+	font-size: 20px;
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+
+img {
+	max-height: 600px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header img{
+	max-height: 300px;
+}
+
+.header {
+	background-color: rgb(91, 117, 132);
+}
+p {
+
+	line-height: 1.5em;
+	margin: 20px;
+	text-align: center;
+}
+
+
+h2 {
+  text-align: center;
+  font-size: 40px;
+  color: white;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.footer ul{
+  background-color: rgb(91, 117, 132);
+  color: white;
+  text-decoration: none;
+  position: absolute;
+  width: 100%;
+  margin: 0px;
+  padding-top: 20px;
+  padding-bottom: 70px;
+  text-align: center;
+  height: 30px;
+}
+
+.footer a{
+  color: white;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  pad
+}
+
+.footer li{
+  display: inline;
+  position: relative;
+  bottom: 0;
+  margin: 40px;
+  padding-bottom: 20px;
+}
+
+
+
+  		font-size: 12px;
+  	}
+  }*/
